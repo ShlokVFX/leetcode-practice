@@ -13,3 +13,9 @@ public:
         return {};
     }
 };
+/*
+Optimal Two Sum Soln that uses Hashmap:
+
+Time Complexity : 0(1)
+Space Complexity : 0(1)
+*/
